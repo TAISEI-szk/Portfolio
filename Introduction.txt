@@ -1,3 +1,5 @@
 Pythonの学習記録としてgithubを利用する
-master branchの更新は可能なのか？
-それともdevelopを作成後にmerge?
+Numpyの基礎
+Pandasの基礎
+scikit-learnの基本的なアルゴリズム(こちらはほどほどにして)
+pycaretでautoML
